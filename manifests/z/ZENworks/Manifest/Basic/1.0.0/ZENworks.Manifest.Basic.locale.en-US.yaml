@@ -1,0 +1,34 @@
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+
+PackageIdentifier: ZENworks.Manifest.Basic
+PackageVersion: 1.0.0
+PackageLocale: en-US
+
+Publisher: ZENworks Certification Team
+PublisherUrl: https://github.com/selvanagalakshmi18/zenworks-winget-test-repo
+
+PackageName: ZENworks Basic Manifest Test
+PackageUrl: https://github.com/selvanagalakshmi18/zenworks-winget-test-repo
+
+License: MIT
+LicenseUrl: https://opensource.org/license/mit
+
+ShortDescription: Basic Winget manifest certification package
+Description: This package is created for ZENworks Winget Subscription certification and validates parsing and database storage of package metadata.
+
+ReleaseDate: 2026-08-13
+
+Moniker: zen-basic
+
+Tags:
+  - ZENworks
+  - Certification
+  - Manifest
+  - Basic
+  - Database
+  - Parsing
+  - Testing
+  - Winget
+
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

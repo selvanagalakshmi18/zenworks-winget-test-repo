@@ -1,0 +1,13 @@
+﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+
+PackageIdentifier: ZENworks.Manifest.Basic
+PackageVersion: 1.0.0
+
+Installers:
+  - Architecture: x64
+    InstallerType: msi
+    InstallerUrl: https://example.com/zenworks-basic-test.msi
+    InstallerSha256: 0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef
+
+ManifestType: installer
+ManifestVersion: 1.10.0

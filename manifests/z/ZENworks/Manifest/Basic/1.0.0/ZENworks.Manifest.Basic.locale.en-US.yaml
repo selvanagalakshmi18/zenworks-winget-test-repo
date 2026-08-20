@@ -13,7 +13,7 @@ PackageUrl: https://github.com/selvanagalakshmi18/zenworks-winget-test-repo
 License: MIT
 LicenseUrl: https://opensource.org/license/mit
 
-ShortDescription: Basic Winget manifest certification package
+ShortDescription: Basic Winget manifest certification package modified now for test
 Description: This package is created for ZENworks Winget Subscription certification and validates parsing and database storage of package metadata.
 
 ReleaseDate: 2026-08-13

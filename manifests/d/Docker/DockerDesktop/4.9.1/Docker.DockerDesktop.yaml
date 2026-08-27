@@ -3,6 +3,6 @@
 
 PackageIdentifier: Docker.DockerDesktop
 PackageVersion: 4.9.1
-DefaultLocale: en-US
+DefaultLocale: en-GB
 ManifestType: version
 ManifestVersion: 1.9.0

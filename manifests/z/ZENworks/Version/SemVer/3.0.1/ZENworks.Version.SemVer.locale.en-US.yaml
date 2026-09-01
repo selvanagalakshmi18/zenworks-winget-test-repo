@@ -1,6 +1,6 @@
 ﻿# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 PackageIdentifier: ZENworks.Version.SemVer
-PackageVersion: 3.0.0
+PackageVersion: 3.0.1
 PackageLocale: en-US
 Publisher: ZENworks Certification
 PackageName: ZENworks Version SemVer
